@@ -1,0 +1,11 @@
+[
+  {
+    "model": "chat.item",
+    "pk": 5,
+    "fields": {
+      "name": "chocolate bar",
+      "quantity": 10,
+      "price": "2.00"
+    }
+  }
+]
